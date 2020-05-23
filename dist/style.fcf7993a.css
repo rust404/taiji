@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}.container{display:flex;height:100vh}#codePanel,#taijiWrapper{flex:1 1 0}#taijiWrapper{display:flex;justify-content:center;align-items:center;overflow:hidden}#codePanel{display:block;overflow-y:auto;overflow-x:hidden;word-wrap:break-word;word-break:break-all}@media (max-aspect-ratio:1/1){.container{flex-direction:column}#taijiWrapper{order:-1}}
+/*# sourceMappingURL=style.fcf7993a.css.map */
